@@ -1,4 +1,4 @@
-'''
+
 import random
 
 print("Welcome to Hand Cricket")
@@ -86,4 +86,3 @@ else:
         else:
             score_computer += computer
             print("score of computer:", score_computer)
-'''
